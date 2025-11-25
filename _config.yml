@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Xinyu TONG[童新宇]"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Xi'an"
+  employer         : "Xi'an University of Technology"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "xinyutong414@gmail.com" 
 
   # Academic websites
   academia         : # URL
